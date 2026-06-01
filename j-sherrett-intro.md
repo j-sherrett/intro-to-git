@@ -19,7 +19,7 @@ This is an image
 
 # Blockquote
 
-> This is an example of a warning set aside in a blockquote to make it stand out from the rest of the text. You can add icons and make the text italic if you want, or even add a different color to make it CPSC compliant.
+> **WARNING:** *This is an example of a warning set aside in a blockquote to make it stand out from the rest of the text. You can add icons and make the text italic if you want, or even add a different color to make it CPSC compliant.*
 > 
 
 # Check Boxes
